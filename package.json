@@ -1,0 +1,35 @@
+{
+    "name": "e-commerce-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "engines": {
+      "node": "12.13.x",
+      "npm": "6.x"
+    },
+    "scripts": {
+      "start": "node server.js",
+      "server": "nodemon server.js",
+      "frontend": "npm start --prefix frontend",
+      "dev": "concurrently \"npm run server\" \"npm run frontend\"",
+      "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^4.0.1",
+      "config": "^3.3.1",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "express-validator": "^6.4.0",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^5.9.7",
+      "react-scripts": "^5.0.1"
+    },
+    "devDependencies": {
+      "concurrently": "^5.2.0",
+      "nodemon": "^2.0.2"
+    }
+  }
+  
