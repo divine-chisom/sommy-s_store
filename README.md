@@ -2,13 +2,13 @@
 A MERN stack e-commerce web application designed to simulate real-world online shopping experience.
 
 ## Table of content
-* [Technology] (https://github.com/divine-chisom/sommy-s_store.git#technology)
-* [Architecture] (https://github.com/divine-chisom/sommy-s_store.git#architecture-couple)
-* [Features] (https://github.com/divine-chisom/sommy-s_store.git#features-speech_balloon)
-* [Demo] (https://github.com/divine-chisom/sommy-s_store.git#demo-running)
-* [Installation] (https://github.com/divine-chisom/sommy-s_store.git)
-* [Author] (https://github.com/divine-chisom/sommy-s_store.git#author-black_nib)
-* [License] (https://github.com/divine-chisom/sommy-s_store.git#license-pray)
+* [Technology](#technology)
+* [Architecture](#architecture-couple)
+* [Features](#features-speech_balloon)
+* [Demo](#demo-running)
+* [Installation](#installation)
+* [Author](#author-black_nib)
+* [License](#license-pray)
 
 ### Technology
 * NodeJs
