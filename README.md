@@ -2,7 +2,7 @@
 A MERN stack e-commerce web application designed to simulate real-world online shopping experience.
 
 ## Table of content
-* [Technology](#technology)
+* [Technologies used](#technologies)
 * [Architecture](#architecture-couple)
 * [Features](#features-speech_balloon)
 * [Demo](#demo-running)
@@ -10,15 +10,16 @@ A MERN stack e-commerce web application designed to simulate real-world online s
 * [Author](#author-black_nib)
 * [License](#license-pray)
 
-### Technology
-* NodeJs
-* Mongodb
-* Reactjs
-* ExpressJs
+### Technologies
+![Technologies](README_assets/technologies.png)
+**Third Party Services** 
 * JWT
+* Postman
+* MongoDB Compass
+
 
 ### Architecture :couple:
-![Architecture](assets/images/architecture.jpg)
+![Architecture](README_assets/architecture.png)
 
 ### Features :speech_balloon:
 
