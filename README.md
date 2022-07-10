@@ -5,7 +5,7 @@ A MERN stack e-commerce web application designed to simulate real-world online s
 * [Technologies used](#technologies-speech_balloon)
 * [Architecture](#architecture-couple)
 * [Demo](#demo-running)
-* [Installation](#installation)
+* [Installation](#installation-thumbsup)
 * [Author](#author-black_nib)
 * [License](#license-pray)
 
